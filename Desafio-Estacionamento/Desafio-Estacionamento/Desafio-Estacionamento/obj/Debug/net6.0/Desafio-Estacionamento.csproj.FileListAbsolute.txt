@@ -1,0 +1,15 @@
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\bin\Debug\net6.0\Desafio-Estacionamento.exe
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\bin\Debug\net6.0\Desafio-Estacionamento.deps.json
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\bin\Debug\net6.0\Desafio-Estacionamento.runtimeconfig.json
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\bin\Debug\net6.0\Desafio-Estacionamento.dll
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\bin\Debug\net6.0\Desafio-Estacionamento.pdb
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net6.0\Desafio-Estacionamento.csproj.AssemblyReference.cache
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net6.0\Desafio-Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net6.0\Desafio-Estacionamento.AssemblyInfoInputs.cache
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net6.0\Desafio-Estacionamento.AssemblyInfo.cs
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net6.0\Desafio-Estacionamento.csproj.CoreCompileInputs.cache
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net6.0\Desafio-Estacionamento.dll
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net6.0\refint\Desafio-Estacionamento.dll
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net6.0\Desafio-Estacionamento.pdb
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net6.0\Desafio-Estacionamento.genruntimeconfig.cache
+C:\GITHub\DIO\Repositorio-Bootcamp-WEX\Desafio-Estacionamento\Desafio-Estacionamento\Desafio-Estacionamento\obj\Debug\net6.0\ref\Desafio-Estacionamento.dll
